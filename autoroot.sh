@@ -1,5 +1,5 @@
 #!/bin/bash
-# mod by amiruldev
+# mod by Xiin eXCe
 
 if [ "$(id -u)" -ne 0 ]; then
   echo "Script ini harus dijalankan sebagai root."
